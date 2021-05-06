@@ -1,1 +1,4 @@
+This is my first task, In this I've made a Supervised Machine Learning Model using Simple Linear Regression. The development was done on Jupyter Notebook using Python 39 with the help of libraries such as : Pandas, NumPy, Matplotlib & Scikit-Learn.
 
+The files have been provided within the folder. The ipynb files can be opened with help of Jupyter Notebook/Lab.
+The following is the link for the data set used for this project : https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv
